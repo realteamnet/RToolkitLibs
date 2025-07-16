@@ -1,3 +1,6 @@
 [submodule "ahk2_lib"]
 	path = thqby-ahk2_lib
 	url = https://github.com/thqby/ahk2_lib
+[submodule "thqby-ahk2_lib"]
+	path = thqby-ahk2_lib
+	url = https://github.com/thqby/ahk2_lib
